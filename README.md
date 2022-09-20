@@ -6,16 +6,10 @@
 
 Node-kickstart is a cli-tool to create boilerplate and basic setup to kickstart your NodeJS App.
 
-## Install
-
-```
-npm install node-kickstart
-```
-
 ## Usage
 
 ```
-$ node-kickstart <project-directory-path> --name <project-name>
+$ npx node-kickstart <project-directory-path> --name <project-name>
 ```
 
 ## Example

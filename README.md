@@ -14,7 +14,7 @@ $ npx node-kickstart <project-directory-path> --name <project-name>
 
 ## Example
 ```
-node-kickstart ../test --name test
+npx node-kickstart ../test --name test
 ```
 
 

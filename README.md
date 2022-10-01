@@ -1,4 +1,5 @@
 [![Generic badge](https://img.shields.io/badge/Build-Passing-<green>.svg)](https://shields.io/) [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+<a href="https://github.com/Dhroov7/node-kickstart"><img src="https://img.shields.io/github/repo-size/Dhroov7/node-kickstart?style=plastic"></a>
 
 
 
